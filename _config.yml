@@ -1,0 +1,14 @@
+url: https://y7kim.github.io
+baseurl: /madmans/
+
+# Site settings
+title: Безумцы. Ragnarok M&#58 Eternal Love EU
+email: madmansrom@gmail.com
+description: "222"
+
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
